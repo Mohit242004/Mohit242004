@@ -61,7 +61,7 @@ I- mplemented menu-driven functionality with item selection, multiple order hand
 | Certificate Name | Issuing Organization | Verification |
 | :--- | :--- | :--- |
 | **🐍 Python Programming** | Innomatics Research Labs | [View Certificate ➔](https://drive.google.com/file/d/1pb0hAI3s02z2OyPEViuWfogUaroriix4/view?usp=drive_link) |
-| **🗄️ Deloitte Job Simulation on Forage** | Forage | [View Certificate ➔]](https://drive.google.com/file/d/1bohHG7JUzd6hNtXH-TzQWOnnZ06OHyJz/view?usp=drive_link) |
+| **🗄️ Deloitte Job Simulation on Forage** | Forage | [View Certificate ➔](https://drive.google.com/file/d/1bohHG7JUzd6hNtXH-TzQWOnnZ06OHyJz/view?usp=drive_link) |
 
 
 ---
