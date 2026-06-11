@@ -1,6 +1,17 @@
 # Hi, I'm Mohit Chaudhari👋  
 
-<br>I have core intrest in python programing language , Data Analysis And Visualization, Artificial intelligence<br><br>I am currently  working at  Innomatics reaserch lab as a intern in the domain of Data Science.<br>
+
+📊 Data Analyst passionate about transforming real-world data into clear insights and impactful dashboards.
+
+---
+
+## 🔍 About Me
+- Hands-on experience with Python, SQL, EDA, and Power BI
+- Worked with real-world, messy datasets including self-collected data (web scraping)
+- Strong focus on data cleaning, exploratory analysis, and insight-driven storytelling
+- Comfortable translating data patterns into business-relevant understanding
+- Continuously learning, building, and improving through practical projects
+
 
 ---
 
