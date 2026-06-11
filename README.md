@@ -5,16 +5,6 @@
 
 ---
 
-## 🔍 About Me
-- Hands-on experience with Python, SQL, EDA, and Power BI
-- Worked with real-world, messy datasets including self-collected data (web scraping)
-- Strong focus on data cleaning, exploratory analysis, and insight-driven storytelling
-- Comfortable translating data patterns into business-relevant understanding
-- Continuously learning, building, and improving through practical projects
-
-
----
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohit2004chaudhari@gmail.com) 
 
