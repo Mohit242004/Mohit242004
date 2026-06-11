@@ -1,6 +1,6 @@
 # Hi, I'm Mohit Chaudhari👋  
 
-<br>I have core intrest in python programing language , Data Analysis And Visualization, Artificial intelligence,<br>Machine Learning especially in woring with data , building models and solving real wolrd problems using AI.<br><br>I am currently  working at  Innomatics reaserch lab as a intern in the domain of Data Science.<br>
+<br>I have core intrest in python programing language , Data Analysis And Visualization, Artificial intelligence,<br><br>I am currently  working at  Innomatics reaserch lab as a intern in the domain of Data Science.<br>
 
 ---
 
