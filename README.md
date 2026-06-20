@@ -17,12 +17,6 @@
 - Continuously learning, building, and improving through practical projects
   
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mohit242004&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mohit242004&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit242004&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
 
 ## 🛠️ Tools & Skills
 
@@ -76,6 +70,12 @@ I- mplemented menu-driven functionality with item selection, multiple order hand
 | :--- | :--- | :--- |
 | **🐍 Python Programming** | Innomatics Research Labs | [View Certificate ➔](https://drive.google.com/file/d/1pb0hAI3s02z2OyPEViuWfogUaroriix4/view?usp=drive_link) |
 | **🗄️ Deloitte Job Simulation on Forage** | Forage | [View Certificate ➔](https://drive.google.com/file/d/1bohHG7JUzd6hNtXH-TzQWOnnZ06OHyJz/view?usp=drive_link) |
+
+---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mohit242004&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mohit242004&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit242004&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ---
