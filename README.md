@@ -47,6 +47,12 @@
 
 ## 📂 Featured Projects  
 
+### 📊 Credit Risk Assessment — Python, Pandas, NumPy, Matplotlib, Seaborn
+- Analyzed a Credit Risk dataset containing **32K+ borrower records** to identify key factors influencing loan approval and borrower creditworthiness.
+- Performed data cleaning, missing value imputation, duplicate removal, and outlier treatment to improve data quality and analysis accuracy.
+- Developed comprehensive visualizations and statistical analyses to examine relationships between borrower demographics, income, loan amount, interest rates, and credit history.
+- Discovered that **loan grade, interest rate, loan-to-income ratio, and credit history length** are major indicators of credit risk, supporting data-driven lending and risk management decisions.
+
 ### 🌦️ IMDB Movie Sales Analysis — Power BI  
 - Analyzed IMDb movie dataset (2006–2016) to identify key factors influencing box office revenue, including genre, ratings, and runtime. 
 - Developed interactive Power BI dashboards with data cleaning, transformation, and visualization to uncover trends and insights. 
@@ -54,7 +60,7 @@
 
 ### ☕ Cafe Management System — Python
 - Developed a console-based Cafe Management System using Python to manage customer food orders and billing.
-I- mplemented menu-driven functionality with item selection, multiple order handling, and automatic bill calculation using dictionaries and conditional statements. 
+- Implemented menu-driven functionality with item selection, multiple order handling, and automatic bill calculation using dictionaries and conditional statements. 
 - Demonstrated understanding of Python fundamentals including user input handling, data structures, and control flow logic.
 
 ### 🎓 Student Grade Management  
