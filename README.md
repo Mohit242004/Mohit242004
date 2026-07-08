@@ -107,10 +107,7 @@
 # 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohit242004&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit242004&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Mohit242004&theme=tokyonight)
+![Snake animation](https://raw.githubusercontent.com/Mohit242004/Mohit242004/output/github-contribution-grid-snake.svg)
 
 ---
 
