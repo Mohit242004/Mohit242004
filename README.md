@@ -1,12 +1,11 @@
-# Hi, I'm Mohit Chaudhari👋  
-
+# Hi, I'm Mohit Chaudhari👋
 
 📊 Data Analyst passionate about transforming real-world data into clear insights and impactful dashboards.
 
 ---
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohit2004chaudhari@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohit2004chaudhari@gmail.com)
 
 ---
 
@@ -15,7 +14,7 @@
 - Worked with real-world, messy datasets including self-collected data (web scraping)
 - Strong focus on data cleaning, exploratory analysis, and insight-driven storytelling
 - Continuously learning, building, and improving through practical projects
-  
+
 ---
 
 ## 🛠️ Tools & Skills
@@ -28,62 +27,95 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-%234470AD.svg?style=for-the-badge&logo=python&logoColor=white)
 
 #### 📊 Visualization & BI Tools
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
 
-
 #### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
 ### ⚙️ Other Tools
 
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github) ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code)
-
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-## 📂 Featured Projects  
+# 📂 Featured Projects
 
-### 📊 Credit Risk Assessment — Python, Pandas, NumPy, Matplotlib, Seaborn
+## 🚗 CarDekho Used Cars Analysis using Web Scraping & EDA
+**Python | BeautifulSoup | Requests | Pandas | NumPy | Matplotlib | Seaborn | Regex**
+
+- Scraped **2,300+ used car listings** from CarDekho (Pune) using BeautifulSoup and Requests.
+- Cleaned and transformed raw web data by removing duplicates, handling missing values, and extracting structured information using Regular Expressions.
+- Performed comprehensive Exploratory Data Analysis (EDA) to understand how **model year, kilometers driven, fuel type, and transmission** influence used car prices.
+- Built insightful visualizations including histograms, box plots, count plots, scatter plots, pair plots, and correlation heatmaps.
+- Identified that newer cars command higher resale values, higher mileage lowers prices, Petrol dominates listings, while Diesel and Electric cars have the highest average prices.
+- Demonstrated an end-to-end Data Analytics workflow from **Web Scraping → Data Cleaning → Feature Engineering → EDA → Business Insights**.
+
+---
+
+## 📊 Credit Risk Assessment
+**Python | Pandas | NumPy | Matplotlib | Seaborn**
+
 - Analyzed a Credit Risk dataset containing **32K+ borrower records** to identify key factors influencing loan approval and borrower creditworthiness.
-- Performed data cleaning, missing value imputation, duplicate removal, and outlier treatment to improve data quality and analysis accuracy.
-- Developed comprehensive visualizations and statistical analyses to examine relationships between borrower demographics, income, loan amount, interest rates, and credit history.
-- Discovered that **loan grade, interest rate, loan-to-income ratio, and credit history length** are major indicators of credit risk, supporting data-driven lending and risk management decisions.
-
-### 🌦️ IMDB Movie Sales Analysis — Power BI  
-- Analyzed IMDb movie dataset (2006–2016) to identify key factors influencing box office revenue, including genre, ratings, and runtime. 
-- Developed interactive Power BI dashboards with data cleaning, transformation, and visualization to uncover trends and insights. 
-- Discovered that high-rated movies (7–8 IMDb) and genres like Action and Animation generate maximum revenue, supporting data-driven decision-making.
-
-### ☕ Cafe Management System — Python
-- Developed a console-based Cafe Management System using Python to manage customer food orders and billing.
-- Implemented menu-driven functionality with item selection, multiple order handling, and automatic bill calculation using dictionaries and conditional statements. 
-- Demonstrated understanding of Python fundamentals including user input handling, data structures, and control flow logic.
-
-### 🎓 Student Grade Management  
-- Developed a console-based Student Grade Management System using Python to manage student records efficiently.
-- Implemented features to add, update, delete, and display student grades using dictionaries and functions.
-- Demonstrated knowledge of Python concepts such as loops, conditional statements, user input handling, and data structures.
+- Performed data cleaning, missing value imputation, duplicate removal, and outlier treatment to improve data quality.
+- Developed comprehensive visualizations and statistical analyses to examine borrower demographics, income, loan amount, interest rates, and credit history.
+- Identified that **loan grade, interest rate, loan-to-income ratio, and credit history length** are major indicators of credit risk.
 
 ---
 
-## 📜 Verified Certifications
+## 🎬 IMDB Movie Sales Analysis
+**Power BI**
+
+- Analyzed IMDb movie dataset (2006–2016) to identify factors influencing box office revenue.
+- Built an interactive Power BI dashboard with data cleaning, transformation, and visualization.
+- Discovered that highly rated movies (IMDb 7–8) and Action/Animation genres generated the highest revenues.
+- Created dynamic dashboards for genre analysis, ratings, revenue, and trends.
+
+---
+
+## ☕ Cafe Management System
+**Python**
+
+- Developed a console-based Cafe Management System for managing food orders and billing.
+- Implemented menu-driven ordering, multiple item selection, and automatic bill generation.
+- Applied Python concepts including dictionaries, loops, conditional statements, and functions.
+
+---
+
+## 🎓 Student Grade Management System
+**Python**
+
+- Developed a console-based Student Grade Management System.
+- Implemented CRUD operations for student records using dictionaries and functions.
+- Demonstrated Python fundamentals including user input handling, loops, and conditional logic.
+
+---
+
+# 📜 Verified Certifications
 
 | Certificate Name | Issuing Organization | Verification |
 | :--- | :--- | :--- |
-| **🐍 Python Programming** | Innomatics Research Labs | [View Certificate ➔](https://drive.google.com/file/d/1pb0hAI3s02z2OyPEViuWfogUaroriix4/view?usp=drive_link) |
-| **🗄️ Deloitte Job Simulation on Forage** | Forage | [View Certificate ➔](https://drive.google.com/file/d/1bohHG7JUzd6hNtXH-TzQWOnnZ06OHyJz/view?usp=drive_link) |
+| 🐍 **Python Programming** | Innomatics Research Labs | [View Certificate](https://drive.google.com/file/d/1pb0hAI3s02z2OyPEViuWfogUaroriix4/view?usp=drive_link) |
+| 🗄️ **Deloitte Job Simulation** | Forage | [View Certificate](https://drive.google.com/file/d/1bohHG7JUzd6hNtXH-TzQWOnnZ06OHyJz/view?usp=drive_link) |
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mohit242004&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mohit242004&theme=vue-dark&hide_border=false)<br/>
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Mohit242004&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Mohit242004&theme=vue-dark&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit242004&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
 ---
 
-📫 **Connect with me on LinkedIn**: https://www.linkedin.com/in/mohit-chaudhari-028301259/
+## 📫 Connect With Me
+
+- 📧 **Email:** mohit2004chaudhari@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/mohit-chaudhari-028301259/
+- 💻 **GitHub:** https://github.com/Mohit242004
