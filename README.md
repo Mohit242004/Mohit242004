@@ -106,11 +106,12 @@
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://ghstats.dev/api/card?username=Mohit242004)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohit242004&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://ghstats.dev/api/languages?username=Mohit242004)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit242004&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Mohit242004&theme=vue-dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Mohit242004&theme=tokyonight)
+
 ---
 
 ## 📫 Connect With Me
