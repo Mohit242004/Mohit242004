@@ -132,6 +132,8 @@
 | 🐍 **Exploratory Data Analysis** | Innomatics Research Labs | [View Certificate](https://drive.google.com/file/d/1GMuqab-PNqwQwL1BUSZcG05mQi-yVeLf/view?usp=drive_link) |
 | 🗄️ **Deloitte Job Simulation** | Forage | [View Certificate](https://drive.google.com/file/d/1bohHG7JUzd6hNtXH-TzQWOnnZ06OHyJz/view?usp=drive_link) |
 | 🗄️ **Data Science & Analytics Internship** | Future Intern | [View Certificate](https://drive.google.com/file/d/1JSRtDj5Nf6jmtndtwAm5yOMW0Gd_l83D/view?usp=drive_link) |
+| 🗄️ **Online Quiz Round of Nation Building Casestudy** | Unstop | [View Certificate](https://drive.google.com/file/d/1xs0LtY1aqJy80i-CPYr815msGiqhNQb4/view?usp=drive_link) |
+| 🗄️ **Presentation Submission Round of Nation Buidling Compitition** | Unstop | [View Certificate](https://drive.google.com/file/d/1VidjRgTfzReK8vMLUZJ5kalVoOOEOM06/view?usp=drive_link) |
 
 ---
 
