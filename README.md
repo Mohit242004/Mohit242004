@@ -85,6 +85,17 @@
 
 ---
 
+## 🏦 Bank Customer Churn Analysis
+**Power BI**
+
+- Analyzed bank customer data to identify key factors influencing customer churn and retention.
+- Built an interactive Power BI dashboard with data cleaning, transformation, DAX measures, KPI analysis, and visualization.
+- Discovered churn patterns based on customer demographics, geography, age, activity status, credit card ownership, and number of products.
+- Created dynamic dashboards to analyze customer churn rate, active customers, exited customers, and retention trends.
+- Generated actionable insights to support data-driven customer retention and engagement strategies.
+
+---
+
 ## 🎬 IMDB Movie Sales Analysis
 **Power BI**
 
