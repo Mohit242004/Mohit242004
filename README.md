@@ -139,8 +139,6 @@
 
 # 📊 GitHub Stats
 
-![Top Languages](https://ghstats.dev/api/languages?username=Mohit242004)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mohit242004&theme=vue-dark)
 
 ---
